@@ -1,8 +1,8 @@
 # 🧠 AI Context
 
-**AI Context ** is a web-based chat tool for maintaining rich project context in AI conversations. It enables focused conversations tied to specific projects, documents, or codebases—powered by a structured context system.
+**AI Context** is a web-based chat tool for maintaining rich project context in AI conversations. It enables focused conversations tied to specific projects, documents, or codebases—powered by a structured context system.
 
-> Designed for anyone who need deeper, context-aware AI collaboration.
+Designed for anyone who need deeper, context-aware AI collaboration.
 
 
 ---
@@ -56,15 +56,12 @@ This is currently a **frontend-only MVP** focused on validating the user interfa
 - [ ] **Context creation/editing in UI**
 - [ ] **Session list / history page**
 - [ ] **Authentication (optional)**
-- [ ] **Context version sync with [Context Utility CLI](https://github.com/your-username/context-cli)**
 
 ---
 
 ## 📁 Context Management
 
-AI Context Chat is designed to work seamlessly with the upcoming [Context Utility CLI](https://github.com/your-username/context-cli) project:
-
-> Use the CLI tool to define, edit, and version your context files, then load them directly into the chat UI.
+AI Context Chat is designed to work seamlessly with the upcoming [Context Core library](https://github.com/alatruwe/context-core) project:
 
 - Store context as structured markdown or JSON
 - Version and manage multiple context types (code summaries, project briefs, etc.)
