@@ -10,16 +10,16 @@ Designed for anyone who need deeper, context-aware AI collaboration.
 ## 🖼️ Screenshots
 
 ### Start of a Chat Session
-![Start of a Chat Session](image.png)
+![Start of a Chat Session](/screenshots/start-session.png)
 
 ### Select a Project Context
-![Context Selection Modal](image-1.png)
+![Context Selection Modal](/screenshots/context-modal.png)
 
 ### Live Chat
-![Live Chat](image-2.png)
+![Live Chat](/screenshots/live-chat-example.png)
 
 ### Context Panel
-![Context Panel](image-3.png)
+![Context Panel](/screenshots/context-panel.png)
 
 ---
 
